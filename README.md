@@ -1,4 +1,4 @@
-# AT-CHECK
+# AT-CHECK A tool for visualizing Arabidopsis gene expression data
 check gene expression of arabidopsis
 一键可视化拟南芥基因表达
 数据来源：Mass-spectrometry-based draft of the Arabidopsis proteome
